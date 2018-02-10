@@ -1,12 +1,12 @@
-Broj Indeksa,Ime Prezime
+RA241/2013, Stefan Stankovic
 file,count
-video1.mp4,0
-video2.mp4,0
-video3.mp4,0
-video4.mp4,0
-video5.mp4,0
-video6.mp4,0
-video7.mp4,0
-video8.mp4,0
-video9.mp4,0
-video10.mp4,0
+video1,24 
+video2,72 
+video3,34 
+video4,55 
+video5,29 
+video6,43 
+video7,53 
+video8,41 
+video9,26 
+video10,58 
